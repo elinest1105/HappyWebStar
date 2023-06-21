@@ -18,7 +18,6 @@
 ---
 <p >
  <img align="right" width="340" height="230" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
-  <a href="https://app.daily.dev/james49"><img src="https://api.daily.dev/devcards/de5b0b39c2584afeaf6bb2d8e6d7217e.png?r=3ff" width="400" alt="James's Dev Card"/></a>
 <!-- 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=0C2B39&center=true&vCenter=true&width=450&height=70&lines=8%2B+years+of+hands-on+IT+experience;Sincere+and+Reliable+Java+Backend+Developer;Perfect+Client-Oriented+Guy" alt="Typing SVG" /></a> -->
   <br>
